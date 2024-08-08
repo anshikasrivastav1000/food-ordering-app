@@ -1,5 +1,8 @@
+import User from "./User";
 const About = () =>{
 
-return<h1>hi</h1>
+return<div>
+<User/>
+</div>
 }
 export default About;
